@@ -50,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujwal-Kumar6&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujwal-Kumar6&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
